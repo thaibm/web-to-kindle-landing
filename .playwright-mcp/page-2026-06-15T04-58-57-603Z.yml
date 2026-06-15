@@ -1,0 +1,158 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - img [ref=e5]
+        - generic [ref=e8]: Send Web to Kindle
+      - link "Add to Chrome" [ref=e9] [cursor=pointer]:
+        - /url: https://chromewebstore.google.com/detail/send-web-to-kindle/egoihiminiafbalfnlekfhhmccihbgpe
+  - main [ref=e10]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - img [ref=e15]
+          - text: Free Chrome Extension
+        - heading "Read the web on your Kindle" [level=1] [ref=e17]
+        - paragraph [ref=e18]: Turn any article, blog post, or selected text into a clean EPUB — right inside Chrome. Download it or send it straight to your Kindle via Gmail. No server, no account required.
+        - generic [ref=e19]:
+          - link "Add to Chrome — It's Free" [ref=e20] [cursor=pointer]:
+            - /url: https://chromewebstore.google.com/detail/send-web-to-kindle/egoihiminiafbalfnlekfhhmccihbgpe
+            - img [ref=e21]
+            - text: Add to Chrome — It's Free
+          - link "See how it works" [ref=e24] [cursor=pointer]:
+            - /url: "#how-it-works"
+      - img [ref=e26]: EPUB
+    - list [ref=e66]:
+      - listitem [ref=e67]:
+        - img [ref=e69]
+        - text: Fully local — runs in your browser
+      - listitem [ref=e72]:
+        - img [ref=e74]
+        - text: No server receives your articles
+      - listitem [ref=e77]:
+        - img [ref=e79]
+        - text: No account required to download EPUB
+      - listitem [ref=e81]:
+        - img [ref=e83]
+        - text: Clean reading — ads & menus removed
+    - generic [ref=e86]:
+      - generic [ref=e87]:
+        - heading "Everything you need for better reading" [level=2] [ref=e88]
+        - paragraph [ref=e89]: One extension. Clean articles. Your Kindle.
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - img [ref=e93]
+          - heading "Distraction-free extraction" [level=3] [ref=e95]
+          - paragraph [ref=e96]: Strips menus, footers, sidebars, and ads using Defuddle — leaving only the article you actually want to read.
+        - generic [ref=e97]:
+          - img [ref=e99]
+          - heading "EPUB generated in-browser" [level=3] [ref=e103]
+          - paragraph [ref=e104]: Creates valid EPUB files client-side with preserved headings, lists, tables, code blocks, and embedded images.
+        - generic [ref=e105]:
+          - img [ref=e107]
+          - heading "Auto table of contents" [level=3] [ref=e111]
+          - paragraph [ref=e112]: Builds a navigable table of contents from article headings automatically — perfect for long-form reads.
+        - generic [ref=e113]:
+          - img [ref=e115]
+          - heading "Live preview in side panel" [level=3] [ref=e118]
+          - paragraph [ref=e119]: Review the cleaned article in Chrome's side panel before saving — edit the title and author to your liking.
+        - generic [ref=e120]:
+          - img [ref=e122]
+          - heading "Save selections as EPUB" [level=3] [ref=e125]
+          - paragraph [ref=e126]: Select any text on a page and convert just that passage to EPUB — great for research snippets or long threads.
+        - generic [ref=e127]:
+          - img [ref=e129]
+          - heading "Send directly to Kindle" [level=3] [ref=e133]
+          - paragraph [ref=e134]: Optionally deliver EPUBs straight to your Kindle email using your connected Gmail account — one click away.
+    - generic [ref=e136]:
+      - generic [ref=e137]:
+        - heading "How it works" [level=2] [ref=e138]
+        - paragraph [ref=e139]: From page to Kindle in four simple steps.
+      - generic [ref=e142]:
+        - generic [ref=e143]:
+          - generic [ref=e145]: "1"
+          - generic [ref=e146]:
+            - heading "Open any article in Chrome" [level=4] [ref=e147]
+            - paragraph [ref=e148]: Navigate to the blog post, news article, or long-form page you want to read on your Kindle.
+        - generic [ref=e149]:
+          - generic [ref=e151]: "2"
+          - generic [ref=e152]:
+            - heading "Click the extension icon" [level=4] [ref=e153]
+            - paragraph [ref=e154]: Click the Send Web to Kindle icon in your toolbar, or right-click the page and choose "Save article as EPUB". To save only part of a page, select text first.
+        - generic [ref=e155]:
+          - generic [ref=e157]: "3"
+          - generic [ref=e158]:
+            - heading "Review the clean preview" [level=4] [ref=e159]
+            - paragraph [ref=e160]: The side panel opens with a distraction-free version of the article. Edit the title or author if you like.
+        - generic [ref=e161]:
+          - generic [ref=e163]: "4"
+          - generic [ref=e164]:
+            - heading "Download or send to Kindle" [level=4] [ref=e165]
+            - paragraph [ref=e166]: Click "Download EPUB" to save the file — no login needed. Or click "Send to Kindle" to deliver it directly via Gmail (requires one-time Gmail setup).
+    - generic [ref=e168]:
+      - generic [ref=e169]:
+        - heading "Set up Kindle delivery" [level=2] [ref=e170]
+        - paragraph [ref=e171]: One-time setup. Send any article to your Kindle with a single click after that.
+      - generic [ref=e172]:
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - generic [ref=e178]: "1"
+            - generic [ref=e179]:
+              - heading "Open the extension Options page" [level=4] [ref=e180]
+              - paragraph [ref=e181]: Click the extension icon and open Settings, or right-click the extension and choose Options.
+          - generic [ref=e182]:
+            - generic [ref=e184]: "2"
+            - generic [ref=e185]:
+              - heading "Enter your Kindle email" [level=4] [ref=e186]
+              - paragraph [ref=e187]: Add your Kindle email address — typically "your-name@kindle.com" or "your-name@free.kindle.com". Find it in your Amazon account under Manage Your Content and Devices.
+          - generic [ref=e188]:
+            - generic [ref=e190]: "3"
+            - generic [ref=e191]:
+              - heading "Connect your Google account" [level=4] [ref=e192]
+              - paragraph [ref=e193]: Sign in with Google so the extension can send email via Gmail on your behalf. Only the gmail.send permission is requested — the extension cannot read your inbox.
+          - generic [ref=e194]:
+            - generic [ref=e196]: "4"
+            - generic [ref=e197]:
+              - heading "Approve the sender in Amazon" [level=4] [ref=e198]
+              - paragraph [ref=e199]: In your Amazon account, go to Manage Your Content and Devices → Preferences → Personal Document Settings and add your Gmail address to the "Approved Personal Document E-mail List".
+          - generic [ref=e200]:
+            - generic [ref=e202]: "5"
+            - generic [ref=e203]:
+              - heading "Send your first article" [level=4] [ref=e204]
+              - paragraph [ref=e205]: Return to any article, open the extension side panel, and click "Send to Kindle". Your document will appear on your device within minutes.
+        - paragraph [ref=e206]: "Note: The extension confirms Gmail accepted the email. Kindle delivery depends on your Amazon approved sender settings and Amazon's document processing."
+    - generic [ref=e208]:
+      - generic [ref=e209]:
+        - heading "Your privacy, by design" [level=2] [ref=e210]
+        - paragraph [ref=e211]: Built to work without ever touching a server. Your articles stay yours.
+      - generic [ref=e212]:
+        - generic [ref=e213]:
+          - img [ref=e215]
+          - heading "Local processing only" [level=3] [ref=e218]
+          - paragraph [ref=e219]: EPUB files are generated entirely inside your browser. Your article content never leaves your device or touches an app server.
+        - generic [ref=e220]:
+          - img [ref=e222]
+          - heading "No data collection" [level=3] [ref=e226]
+          - paragraph [ref=e227]: We do not collect, analyze, sell, or store your browsing history or article content. Settings like your Kindle email are stored locally in Chrome's storage only.
+        - generic [ref=e228]:
+          - img [ref=e230]
+          - heading "Minimal permissions" [level=3] [ref=e234]
+          - paragraph [ref=e235]: Google sign-in is optional and only requests gmail.send — it cannot read your inbox. The extension only accesses the active tab when you explicitly trigger it.
+    - generic [ref=e237]:
+      - heading "Start reading better today" [level=2] [ref=e238]
+      - paragraph [ref=e239]: Free, open, and private. Add it to Chrome in seconds — no account, no server, no tracking.
+      - link "Add to Chrome — It's Free" [ref=e241] [cursor=pointer]:
+        - /url: https://chromewebstore.google.com/detail/send-web-to-kindle/egoihiminiafbalfnlekfhhmccihbgpe
+        - img [ref=e242]
+        - text: Add to Chrome — It's Free
+  - contentinfo [ref=e247]:
+    - generic [ref=e248]:
+      - generic [ref=e249]:
+        - img [ref=e250]
+        - generic [ref=e253]: Send Web to Kindle
+      - navigation "Footer navigation" [ref=e254]:
+        - link "Chrome Web Store" [ref=e255] [cursor=pointer]:
+          - /url: https://chromewebstore.google.com/detail/send-web-to-kindle/egoihiminiafbalfnlekfhhmccihbgpe
+        - link "Privacy Policy" [ref=e256] [cursor=pointer]:
+          - /url: /privacy
+      - paragraph [ref=e257]: © 2026 Send Web to Kindle. All rights reserved.

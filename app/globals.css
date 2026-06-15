@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+    --color-cream: #faf7f2;
+    --color-parchment: #f0ead6;
+    --color-ink: #1a1208;
+    --color-ink-light: #4a3f2f;
+    --color-amber: #c27b2c;
+    --color-amber-dark: #a0621e;
+    --color-sage: #5c7a5e;
+    --color-border: #ddd3bb;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--color-cream);
+    color: var(--color-ink);
+}
+
+/* Kindle screen carousel: 3 slides, each displayed for ~2.5s, transition 0.5s */
+@keyframes kindle-carousel {
+    0%,
+    28% {
+        transform: translateX(0%);
+    }
+    33%,
+    61% {
+        transform: translateX(-33.333%);
+    }
+    66%,
+    94% {
+        transform: translateX(-66.666%);
+    }
+    99%,
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+/* Gentle fade-up for scroll-triggered sections */
+@keyframes fade-up {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

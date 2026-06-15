@@ -1,0 +1,877 @@
+[     480ms] [INFO] Download the React DevTools for a better development experience: https://react.dev/link/react-devtools @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[     483ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[     483ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[     514ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[     561ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     561ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     561ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     562ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     599ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[     667ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[     669ms] [TIMESTAMP] Hydrated @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[     673ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[     674ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[     674ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[     674ms] [TIMESTAMP] ​Preloads @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     674ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     674ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     675ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     676ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     677ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     677ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     677ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     677ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     677ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     677ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     678ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     679ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     679ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     679ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     679ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     679ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     679ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[     681ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[     682ms] [TIMESTAMP] Root @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     682ms] [TIMESTAMP] ServerRoot @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     682ms] [TIMESTAMP] AppRouter @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     682ms] [TIMESTAMP] RootErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     682ms] [TIMESTAMP] ErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] ErrorBoundaryHandler @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] HotReload @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] AppDevOverlayErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] DevRootHTTPAccessFallbackBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] HTTPAccessFallbackBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] HTTPAccessFallbackErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     683ms] [TIMESTAMP] RedirectBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     684ms] [TIMESTAMP] RedirectErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     684ms] [TIMESTAMP] Head @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     684ms] [TIMESTAMP] __next_viewport_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     684ms] [TIMESTAMP] __next_metadata_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     684ms] [TIMESTAMP] __next_root_layout_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     685ms] [TIMESTAMP] SegmentViewNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     685ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     685ms] [TIMESTAMP] OuterLayoutRouter @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     685ms] [TIMESTAMP] SegmentStateProvider @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     685ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     685ms] [TIMESTAMP] ScrollAndMaybeFocusHandler @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     686ms] [TIMESTAMP] InnerScrollAndFocusHandlerOld @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     686ms] [TIMESTAMP] ErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     686ms] [TIMESTAMP] LoadingBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     686ms] [TIMESTAMP] HTTPAccessFallbackBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     686ms] [TIMESTAMP] HTTPAccessFallbackErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     686ms] [TIMESTAMP] RedirectBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] RedirectErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] InnerLayoutRouter @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] SegmentViewNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] __next_outlet_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     688ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     689ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[     689ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[     689ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     689ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     689ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     689ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     689ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[     693ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[     694ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[     694ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[     694ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     694ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     695ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     695ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     695ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[     697ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     697ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     698ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     698ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[     698ms] [TIMESTAMP] Prepared @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[     699ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[     700ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[     701ms] [TIMESTAMP] IconMark @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[   10356ms] [WARNING] [JavaScript Warning: "The resource at “http://localhost:3000/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "http://localhost:3000/" line: 0}] @ http://localhost:3000/:0
+[   10356ms] [WARNING] [JavaScript Warning: "The resource at “http://localhost:3000/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "http://localhost:3000/" line: 0}] @ http://localhost:3000/:0
+[   16984ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[   16984ms] [LOG] [Fast Refresh] done in 107ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[  470344ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[  470347ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470347ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470348ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470348ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470348ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9281
+[  470351ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[  470352ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470352ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470352ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470354ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[  470354ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[  470356ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470357ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470357ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470357ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470357ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9310
+[  470360ms] [TIMESTAMP] Prewarm @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2877
+[  470425ms] [LOG] [Fast Refresh] done in 22ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[  470450ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470451ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470451ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470451ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[  470451ms] [TIMESTAMP] Suspended @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2880
+[  470465ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[  470470ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[  470471ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[  470473ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[  470474ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470474ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470474ms] [TIMESTAMP] __next_viewport_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470475ms] [TIMESTAMP] __next_metadata_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470475ms] [TIMESTAMP] IconMark @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470475ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470475ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470475ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470475ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[  470476ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[  470476ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[  470549ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[  470550ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[  470550ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470551ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470552ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470553ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470553ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470553ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470553ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470553ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470554ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470554ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470554ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470554ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470554ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470555ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470555ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470555ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470555ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470555ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470556ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470556ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470556ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470556ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470556ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[  470556ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1318728ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1318759ms] [LOG] [Fast Refresh] done in 29ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1362706ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1362707ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362707ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362708ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362708ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362708ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9281
+[ 1362710ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1362710ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362710ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362711ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1362712ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1362714ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362715ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362715ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362715ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362715ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9310
+[ 1362719ms] [TIMESTAMP] Prewarm @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2877
+[ 1362773ms] [LOG] [Fast Refresh] done in 35ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1362823ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362824ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362824ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362824ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1362824ms] [TIMESTAMP] Suspended @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2880
+[ 1362832ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1362839ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1362878ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[ 1362879ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1362879ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362880ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362880ms] [TIMESTAMP] __next_viewport_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362881ms] [TIMESTAMP] __next_metadata_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362881ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362881ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362881ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362881ms] [TIMESTAMP] SegmentBoundaryTriggerNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362882ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1362882ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[ 1362882ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1362913ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1362914ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1362915ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362915ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362915ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362915ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362915ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362915ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362915ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362916ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362916ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362916ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362916ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362916ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362916ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362917ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362917ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362917ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362917ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362917ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362918ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362919ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362919ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362919ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362919ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362919ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362919ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362920ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362921ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362921ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362921ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362921ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362921ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362921ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1362922ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1368992ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1368994ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1368994ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1368994ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1368994ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1368994ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9281
+[ 1368996ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1368996ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1368996ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1368996ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1368996ms] [TIMESTAMP] Head @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1368996ms] [TIMESTAMP] __next_root_layout_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1368997ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1368997ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[ 1368997ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1369000ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1369000ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1369001ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369002ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369002ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369003ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369003ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9310
+[ 1369008ms] [TIMESTAMP] Prewarm @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2877
+[ 1369060ms] [LOG] [Fast Refresh] done in 35ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1369079ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369080ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369080ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369080ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1369080ms] [TIMESTAMP] Suspended @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2880
+[ 1369089ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1369102ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[ 1369103ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1369103ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369103ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369103ms] [TIMESTAMP] __next_viewport_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369103ms] [TIMESTAMP] __next_metadata_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369103ms] [TIMESTAMP] IconMark @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369104ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369104ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369104ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369104ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1369104ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[ 1369104ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1369179ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1369180ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1369181ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369181ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369181ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369182ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369183ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369184ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369185ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369185ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369185ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369185ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369186ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369187ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369187ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369187ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369187ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369187ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1369187ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374669ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1374670ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374671ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374671ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374671ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374672ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1374672ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374673ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374673ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1374674ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1374674ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1374676ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374677ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374677ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374677ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374677ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9310
+[ 1374680ms] [TIMESTAMP] Prewarm @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2877
+[ 1374739ms] [LOG] [Fast Refresh] done in 16ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1374758ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374759ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374759ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374759ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1374759ms] [TIMESTAMP] Suspended @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2880
+[ 1374763ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1374772ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1374805ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[ 1374805ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1374805ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[ 1374806ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374806ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374806ms] [TIMESTAMP] __next_viewport_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374806ms] [TIMESTAMP] __next_metadata_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374806ms] [TIMESTAMP] IconMark @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374806ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374807ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374807ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374807ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1374807ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[ 1374807ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1374862ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1374863ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1374863ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374863ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374863ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374863ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374864ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374864ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374864ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374864ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374864ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374864ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374865ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374866ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374867ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374867ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374867ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374867ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374867ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374868ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1374869ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1382909ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1382910ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382910ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382911ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382911ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382911ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9281
+[ 1382912ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1382912ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1382912ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1382912ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1382912ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1382913ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382913ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382916ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382916ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382916ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382916ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382917ms] [TIMESTAMP] Event: message @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9310
+[ 1382920ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382921ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382921ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382921ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382921ms] [TIMESTAMP] Interrupted Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9256
+[ 1382921ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382922ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382922ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382922ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382923ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382923ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382923ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382923ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382923ms] [TIMESTAMP] Interrupted Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9256
+[ 1382924ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382924ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382924ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382924ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382925ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1382925ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382926ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382926ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382927ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382927ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382927ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1382928ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382928ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382929ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382929ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1382933ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1382934ms] [TIMESTAMP] Prewarm @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2877
+[ 1383093ms] [LOG] [Fast Refresh] done in 54ms @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1383254ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383254ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383255ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383255ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383255ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383255ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383255ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383256ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383256ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383256ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383256ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383256ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383256ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383257ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383257ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383257ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383258ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383259ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383259ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383259ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383259ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383259ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383259ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383260ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383260ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383260ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383260ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383260ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383261ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383261ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383261ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383261ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383261ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383262ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383262ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383262ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383262ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383262ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383263ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383278ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383279ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383279ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383279ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383280ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383280ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383281ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383282ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383283ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383283ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383284ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383284ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383284ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383284ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383284ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383285ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383286ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383287ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383287ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383310ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383311ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383311ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383311ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383311ms] [TIMESTAMP] Suspended @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2880
+[ 1383336ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1383337ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1383368ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[ 1383369ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383370ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383370ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383370ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383370ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383371ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383371ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383371ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383371ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383371ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383371ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383372ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383373ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383374ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383375ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383376ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383376ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383376ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383376ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383376ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383377ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383377ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383377ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1383377ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383378ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383378ms] [TIMESTAMP] __next_viewport_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] __next_metadata_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383379ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383380ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383380ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383380ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1383380ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383381ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383381ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383381ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1383381ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1383381ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383382ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1383382ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1383419ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383419ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1383420ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383420ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383420ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383420ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383420ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383420ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383421ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383421ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383421ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383421ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383421ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383421ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383422ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383423ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383424ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383425ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383425ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383425ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383425ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383425ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383426ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383426ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383426ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383426ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1383426ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1444241ms] [ERROR] [JavaScript Error: "Firefox can’t establish a connection to the server at ws://localhost:3000/_next/webpack-hmr?id=Gtre8OK9Ger6yf0mZM9hg." {file: "http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js" line: 13431}] @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js:13431
+[ 1445325ms] [ERROR] [JavaScript Error: "Firefox can’t establish a connection to the server at ws://localhost:3000/_next/webpack-hmr?id=Gtre8OK9Ger6yf0mZM9hg." {file: "http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js" line: 13431}] @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js:13431
+[ 1446325ms] [ERROR] [JavaScript Error: "Firefox can’t establish a connection to the server at ws://localhost:3000/_next/webpack-hmr?id=Gtre8OK9Ger6yf0mZM9hg." {file: "http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js" line: 13431}] @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js:13431
+[ 1447422ms] [ERROR] [JavaScript Error: "Firefox can’t establish a connection to the server at ws://localhost:3000/_next/webpack-hmr?id=Gtre8OK9Ger6yf0mZM9hg." {file: "http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js" line: 13431}] @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js:13431
+[ 1448750ms] [ERROR] [JavaScript Error: "Firefox can’t establish a connection to the server at ws://localhost:3000/_next/webpack-hmr?id=Gtre8OK9Ger6yf0mZM9hg." {file: "http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js" line: 13431}] @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js:13431
+[ 1453764ms] [ERROR] [JavaScript Error: "Firefox can’t establish a connection to the server at ws://localhost:3000/_next/webpack-hmr?id=Gtre8OK9Ger6yf0mZM9hg." {file: "http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js" line: 13431}] @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_client_1z1on1h._.js:13431
+[ 1458768ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1459622ms] [INFO] Download the React DevTools for a better development experience: https://react.dev/link/react-devtools @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1459628ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1459628ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1459677ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_1qmvpb9._.js:2477
+[ 1459794ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459795ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459795ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459795ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459828ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1459832ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1459844ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1459875ms] [TIMESTAMP] Blocked @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9057
+[ 1459885ms] [TIMESTAMP] Hydrated @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1459908ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[ 1459909ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1459909ms] [TIMESTAMP] Root @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459909ms] [TIMESTAMP] ServerRoot @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459910ms] [TIMESTAMP] AppRouter @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459910ms] [TIMESTAMP] RootErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459910ms] [TIMESTAMP] ErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] ErrorBoundaryHandler @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] Router @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] HistoryUpdater @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] HotReload @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] AppDevOverlayErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] ReplaySsrOnlyErrors @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] DevRootHTTPAccessFallbackBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459911ms] [TIMESTAMP] HTTPAccessFallbackBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459912ms] [TIMESTAMP] HTTPAccessFallbackErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459912ms] [TIMESTAMP] RedirectBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459912ms] [TIMESTAMP] RedirectErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459912ms] [TIMESTAMP] Head @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459914ms] [TIMESTAMP] __next_root_layout_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459914ms] [TIMESTAMP] SegmentViewNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459914ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459914ms] [TIMESTAMP] OuterLayoutRouter @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459914ms] [TIMESTAMP] SegmentStateProvider @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459914ms] [TIMESTAMP] RenderFromTemplateContext @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459915ms] [TIMESTAMP] ScrollAndMaybeFocusHandler @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459916ms] [TIMESTAMP] InnerScrollAndFocusHandlerOld @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459916ms] [TIMESTAMP] ErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459916ms] [TIMESTAMP] LoadingBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] HTTPAccessFallbackBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] HTTPAccessFallbackErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] RedirectBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] RedirectErrorBoundary @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] InnerLayoutRouter @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] SegmentViewNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] SegmentTrieNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459917ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] AnimatedSection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] __next_outlet_boundary__ @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] SegmentViewStateNode @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459918ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459919ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2874
+[ 1459919ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1459922ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459922ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459922ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459922ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459922ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1459922ms] [TIMESTAMP] AppRouterAnnouncer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459923ms] [TIMESTAMP] Remaining Effects @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:10005
+[ 1459923ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459923ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459923ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459923ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459923ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1459923ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459924ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459924ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459924ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459924ms] [TIMESTAMP] Prepared @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1459925ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1459926ms] [TIMESTAMP] IconMark @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2804
+[ 1459932ms] [TIMESTAMP] Server Requests Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1459932ms] [TIMESTAMP] Server Components Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:710
+[ 1459932ms] [TIMESTAMP] ​Preloads @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​HTTPAccessErrorFallback @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​NotFound @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​RootLayout @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​Navbar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459933ms] [TIMESTAMP] ​MockPage1 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​MockPage2 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​MockPage3 @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​KindlePage @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​KindleIllustration @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​Hero @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​SocialProofBar @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459934ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459935ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459935ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459935ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459935ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459935ms] [TIMESTAMP] ​FeatureCard @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459935ms] [TIMESTAMP] ​FeaturesGrid @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459936ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459936ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459936ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459936ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459936ms] [TIMESTAMP] ​HowItWorks @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459936ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459937ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459937ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459937ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459938ms] [TIMESTAMP] ​StepItem @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459938ms] [TIMESTAMP] ​KindleSetup @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459938ms] [TIMESTAMP] ​PrivacySection @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459938ms] [TIMESTAMP] ​Button @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459938ms] [TIMESTAMP] ​CtaBanner @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​Footer @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​Home @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​Next.MetadataOutlet @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​NonIndex @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​Next.Viewport @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​ViewportWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459939ms] [TIMESTAMP] ​Next.Metadata @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459940ms] [TIMESTAMP] ​MetadataWrapper @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-server-dom-turbopack_0pvk2an._.js:2219
+[ 1459941ms] [TIMESTAMP] Blocking Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459941ms] [TIMESTAMP] Transition Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459941ms] [TIMESTAMP] Suspense Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459941ms] [TIMESTAMP] Idle Track @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9246
+[ 1459942ms] [TIMESTAMP] Render @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9696
+[ 1459942ms] [TIMESTAMP] Commit @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:2915
+[ 1459942ms] [TIMESTAMP] Waiting for Paint @ http://localhost:3000/_next/static/chunks/0k5d_next_dist_compiled_react-dom_1ep3e0o._.js:9989
+[ 1469423ms] [WARNING] [JavaScript Warning: "The resource at “http://localhost:3000/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "http://localhost:3000/" line: 0}] @ http://localhost:3000/:0
+[ 1469423ms] [WARNING] [JavaScript Warning: "The resource at “http://localhost:3000/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "http://localhost:3000/" line: 0}] @ http://localhost:3000/:0
