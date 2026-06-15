@@ -87,7 +87,7 @@ function MockPage3() {
 
 export default function KindleIllustration() {
   return (
-    <div className="flex items-center justify-center gap-4 w-full select-none" aria-hidden="true">
+    <div className="flex items-center justify-end gap-4 w-full select-none" aria-hidden="true">
 
       {/* Browser window */}
       <div className="w-44 flex-shrink-0 rounded-xl overflow-hidden border border-border shadow-sm bg-white">
